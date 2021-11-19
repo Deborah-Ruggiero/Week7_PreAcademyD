@@ -29,9 +29,6 @@ namespace NumeriComplessi
             //    Console.WriteLine($"Dividendo: {ncex.PrimoOperatore} - Divisore: {ncex.SecondoOperatore}");
 
         }
-
-
-
     }
-    }
+ 
 }
